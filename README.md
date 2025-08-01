@@ -1,5 +1,5 @@
 <h3 align="center">Hi, I'm Devaa 👋</h3>
-<p align="center">🚀 Aspiring .NET Fullstack Developer</p>
+<p align="center">🚀 .NET Fullstack Developer</p>
 
 ---
 
