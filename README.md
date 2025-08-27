@@ -75,8 +75,8 @@
 <h3 align="center">📫 Let's Connect</h3>
 
 <p align="center">
-  🔗 <a href="https://www.linkedin.com/in/bawangx/">LinkedIn</a><br/>
-  🌐 <a href="https://bawangx.github.io">Github</a><br/>
+  🔗 <a href="https://www.linkedin.com/in/devawpxx/">LinkedIn</a><br/>
+  🌐 <a href="https://devawpx.github.io">Github</a><br/>
   📧 <strong>Email :</strong> <code>devawpxx [at] gmail [dot] com</code><br/>
   💬 <strong>Telegram :</strong> <a href="https://t.me/devawpxx">@devawpxx</a>
 </p>
@@ -86,11 +86,11 @@
 <h3 align="center">📊 GitHub Stats & Streak</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bawangx&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=devawpx&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=bawangx&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=devawpx&theme=tokyonight&hide_border=true" width="48%" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bawangx&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devawpx&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
 </p>
